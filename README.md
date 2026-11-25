@@ -4,7 +4,7 @@
 ## Notebook
 | | Notebook | Model | Test accuracy | Article |
 |:-:|---|---|:-:|:-:|
-| **01** | [**My first model with TensorFlow**](01_tensorflow_first_model/01_tensorflow_first_model_eurosat.ipynb)<br><sub>The 5 steps of a Keras model: load, build, compile, train, evaluate</sub> | Flatten + Dense | **47%** | [📖 Read]((https://t.co/WYSUCLpaLI)) |
+| **01** | [**My first model with TensorFlow**](01_tensorflow_first_model/01_tensorflow_first_model_eurosat.ipynb)<br><sub>The 5 steps of a Keras model: load, build, compile, train, evaluate</sub> | Flatten + Dense | **47%** | ((https://t.co/WYSUCLpaLI)) |
 
 ## Data
 All notebooks use EuroSAT (RGB): 27,000 Sentinel-2 images of 64 × 64 pixels, with 10 land-cover classes.
