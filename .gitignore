@@ -1,0 +1,11 @@
+# Data (downloaded by the notebooks, too large for GitHub)
+eurosat_data/
+
+# Jupyter and Python files that should not be shared
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
