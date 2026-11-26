@@ -28,4 +28,4 @@ With 10 classes, guessing gives 10%. The CNN recognizes water, buildings, and fo
 
 ## Author
 
-**Lise Olga Makonga**, M.S. student in Geography and Geospatial Sciences, South Dakota State University.
+**Lise Olga Makonga**, M.S. student in Geography and Geospatial Sciences.
